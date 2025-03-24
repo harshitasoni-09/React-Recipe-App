@@ -5,10 +5,6 @@ A web application that helps users discover new and exciting recipes based on in
 ## 🚀 Live Demo  
 🔗 [https://euphonious-truffle-c042ff.netlify.app/](#) *(Replace `#` with your live demo link)*
 
-## 📸 Screenshots  
-C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 210901.png
-
-
 ## ✨ Features  
 - 🔍 **Search Recipes** – Find dishes based on ingredients, cuisine, or dietary preferences.  
 - 🍲 **Detailed Recipe View** – Get step-by-step instructions and ingredients.  
