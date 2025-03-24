@@ -6,7 +6,7 @@ A web application that helps users discover new and exciting recipes based on in
 🔗 [https://euphonious-truffle-c042ff.netlify.app/](#) *(Replace `#` with your live demo link)*
 
 ## 📸 Screenshots  
-![Uploading Screenshot 2025-03-23 210901.png…]()
+C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 210901.png
 
 
 ## ✨ Features  
